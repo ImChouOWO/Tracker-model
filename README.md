@@ -5,9 +5,10 @@
 本專案遵循以下工作流程進行研究
 > This project follows the research workflow outlined below.
 
+
+![work flow](https://github.com/ImChouOWO/Tracker-model/blob/main/structure/work%20flowdrawio.drawio.png)
+
 >[!NOTE]
->![work flow](https://github.com/ImChouOWO/Tracker-model/blob/main/structure/work%20flowdrawio.drawio.png)
->
 > ### 本專案目前利用以下三項資料構建輸入
 > > This project currently utilizes the following three types of data as inputs
 >
@@ -32,9 +33,9 @@
 >![model structure_block](https://github.com/ImChouOWO/Tracker-model/blob/main/structure/trackermodel_block.drawio.png)
 ---
 ## 績效/Performance
->[!NOTE]
->![LOSS](https://github.com/ImChouOWO/Tracker-model/blob/main/structure/Loss.png)
->![MAE](https://github.com/ImChouOWO/Tracker-model/blob/main/structure/MAE.png)
+
+![LOSS](https://github.com/ImChouOWO/Tracker-model/blob/main/structure/Loss.png)
+![MAE](https://github.com/ImChouOWO/Tracker-model/blob/main/structure/MAE.png)
 
 
  ## IOU Score
