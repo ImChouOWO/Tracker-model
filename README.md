@@ -1,16 +1,18 @@
 ﻿## 簡介/Introduction
  💡 **當前專案尚未完成，仍有許多需要改進的地方，如資料集、模型結構等**
- > **The current project is not yet completed and still has many areas that need improvement, such as the dataset, model structure**
+ > **The current project is not yet completed and still has many issue that need improvement, such as the dataset, model structure**
  
-本專案遵循以下工作流程進行研究
-> This project follows the research workflow outlined below.
+### 本專案遵循以下工作流程進行研究
+>This project follows the research workflow outlined below.
 
 
 ![work flow](https://github.com/ImChouOWO/Tracker-model/blob/main/structure/work%20flowdrawio.drawio.png)
 
+
+### 本專案目前利用以下三項資料構建輸入
+ > This project currently utilizes the following three types of data as inputs
+
 >[!NOTE]
-> ### 本專案目前利用以下三項資料構建輸入
-> > This project currently utilizes the following three types of data as inputs
 >
 > - 原始圖片(Original images)
 > - 包含偵測框的圖片(Images with bounding boxes)
