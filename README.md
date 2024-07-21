@@ -27,10 +27,14 @@
 >| Quantity    | 33             | 33             | 33             |
 >| Data Type   | 256X256 RGB    | 256X256 RGB    | Float          |
 > ---
+### 主架構/main strucure
 ![model structure](https://github.com/ImChouOWO/Tracker-model/blob/main/structure/trackermodel.jpg)
+
+### CNN區塊/Triple CNN
 ![model structure_block](https://github.com/ImChouOWO/Tracker-model/blob/main/structure/trackermodel_block.drawio.png)
 ---
 ## 績效/Performance
+
 
 ![LOSS](https://github.com/ImChouOWO/Tracker-model/blob/main/structure/Loss.png)
 ![MAE](https://github.com/ImChouOWO/Tracker-model/blob/main/structure/MAE.png)
