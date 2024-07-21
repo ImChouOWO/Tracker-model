@@ -27,10 +27,8 @@
 >| Quantity    | 33             | 33             | 33             |
 >| Data Type   | 256X256 RGB    | 256X256 RGB    | Float          |
 > ---
->![model structure](https://github.com/ImChouOWO/Tracker-model/blob/main/structure/trackermodel.jpg)
->
->
->![model structure_block](https://github.com/ImChouOWO/Tracker-model/blob/main/structure/trackermodel_block.drawio.png)
+![model structure](https://github.com/ImChouOWO/Tracker-model/blob/main/structure/trackermodel.jpg)
+![model structure_block](https://github.com/ImChouOWO/Tracker-model/blob/main/structure/trackermodel_block.drawio.png)
 ---
 ## 績效/Performance
 
