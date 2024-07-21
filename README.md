@@ -36,11 +36,32 @@
 >![LOSS](https://github.com/ImChouOWO/Tracker-model/blob/main/structure/Loss.png)
 >![MAE](https://github.com/ImChouOWO/Tracker-model/blob/main/structure/MAE.png)
 
-## 當前硬體/Current Hardware
 
-| Device      | GPU            | RAM            | SYSTEM         |
-|-------------|----------------|----------------|----------------|
-|             | 3060 12G       | 32G            | Windows 11     |
+ ## IOU Score
+$$
+IOU = \frac{Area\ of\ Overlap}{Area\ of\ Union}
+$$
+
+- **Overlap**：預測邊界框與實際邊界框重疊的區域面積。
+  >**Area of Overlap**: The area where the predicted bounding box and the ground truth bounding box overlap.
+- **Union**：預測邊界框和實際邊界框覆蓋的總區域面積。
+  >**Area of Union**: The total area covered by the predicted bounding box and the ground truth bounding box.
+
+---
+
+|                | Best      | Average   |
+|----------------|-----------|-----------|
+| 內部資料       | 0.908486  | 0.593728  |
+| 外部資料       | 0.335145  | 0.11712   |
+
+|                | Best      | Average   |
+|----------------|-----------|-----------|
+| Internal Data  | 0.908486  | 0.593728  |
+| External Data  | 0.335145  | 0.11712   |
+
+
+
+## 當前硬體/Current Hardware
 
 | Device      | GPU            | RAM            | SYSTEM         |
 |-------------|----------------|----------------|----------------|
