@@ -60,7 +60,6 @@ $$
 | External Data  | 0.335145  | 0.11712   |
 
 
-
 ## 當前硬體/Current Hardware
 
 | Device      | GPU            | RAM            | SYSTEM         |
