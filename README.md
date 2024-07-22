@@ -1,6 +1,6 @@
-﻿## 簡介/Introduction
+## 簡介/Introduction
  💡 **當前專案尚未完成，仍有許多需要改進的地方，如資料集、模型結構等**
- > **The current project is not yet completed and still has many issue that need improvement, such as the dataset, model structure**
+ > **The current project is not yet completed and still has many issue that need improvement, such as the dataset, model structure,etc.**
  
 ### 本專案遵循以下工作流程進行研究
 >This project follows the research workflow outlined below.
